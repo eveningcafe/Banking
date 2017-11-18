@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/staff/XoaTaiKhoan.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/configService1.txt</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/socket/ServiceServer1.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/staff/XemChiTiet.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/socket/ServerProgram.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/socket/GatewayServiceThread.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/connectdatabase/MySqlConnector.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/staff/Login.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/customer/NapTien.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/staff/RutTien.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/customer/Start.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/socket/InfoSever.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/connectdatabase/DBMangager.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/socket/ServiceServer.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/staff/QuanLyNganHang.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/socket/SocketOfClient.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/configClient.txt</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/staff/NapTien.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/customer/resetPassword.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/staff/TaoTaiKhoan.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/configGatewaySever.txt</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/phu_tro/Verify.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/customer/Login.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/socket/ClientDemo.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/client/staff/ThemNguoiDungPhu.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/configService2.txt</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/socket/ServiceServer2.java</file>
+            <file>file:/home/ngohoa/NetBeansProjects/Banking/src/socket/GatewayServer.java</file>
+        </group>
+    </open-files>
+</project-private>

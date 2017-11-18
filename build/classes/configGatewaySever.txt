@@ -1,0 +1,3 @@
+GatewayLisentIn: localhost 5555
+infoService1: localhost 6666
+infoService2: localhost 7777
